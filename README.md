@@ -43,4 +43,4 @@ Este projeto foi desenvolvido como um exercício para praticar conceitos fundame
 
 ## 🎬 Demonstração
 
-![Demo do Contador](https://github.com/seu-usuario/counter/assets/12345678/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx)
+![Demo do Contador](https://github.com/user-attachments/assets/ab399129-f8dd-4bd6-9b02-2aff117bb795)
